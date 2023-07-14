@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenjiDoom
-- 👀 I’m interested in computer science and hacking!
-- 🌱 I’m currently learning anything I can get my hands on
+- 👀 I’m interested in python, cyber security and content creation
+- 🌱 I’m currently in the process of completing my 100 days of code challenge!
 
 <!---
 KenjiDoom/KenjiDoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
